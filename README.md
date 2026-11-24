@@ -1,3 +1,5 @@
+
+
 # IT & Cybersecurity Portfolio
 
 ## About Me
@@ -37,6 +39,7 @@ Currently preparing for the CompTIA A+ certification.
 | 02 | [Linux Fundamentals](Labs/Lab-02-Linux-Fundamentals/) |
 | 03 | [System Administration](Labs/Lab-03-System-Administration/) |
 | 04 | [macOS Administration and VM Migration](Labs/Lab-04-macOS-VM-Migration/) |
+| 05 | [Git & GitHub Deployment](Labs/Lab-05-Git-GitHub-Deployment/) 
 
 ## Certifications
 
