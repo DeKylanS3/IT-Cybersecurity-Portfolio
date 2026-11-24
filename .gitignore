@@ -1,0 +1,11 @@
+.DS_Store
+*.utm/
+*.iso
+*.dmg
+*.qcow2
+*.img
+*.log
+.env
+.env.*
+*.pem
+*.key
